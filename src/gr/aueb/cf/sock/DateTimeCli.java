@@ -13,7 +13,7 @@ public class DateTimeCli {
         StringBuilder sb = new StringBuilder();
 
         try {
-            //InetAddress servAddress = InetAddress.getByName("time.nist.gov");
+            // InetAddress servAddress = InetAddress.getByName("time.nist.gov");
             InetAddress servAddress = InetAddress.getByName("127.0.0.1");
             int servPort = 13;
 
